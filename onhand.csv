@@ -1,0 +1,4 @@
+Material_number,Supplier,On_hand,Supplier_capacity,Inventory_cap
+Mat-A,Sup-A,120,600,500
+Mat-B,Sup-B,60,300,250
+Mat-C,Sup-C,60,300,250

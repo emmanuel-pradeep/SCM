@@ -1,0 +1,7 @@
+Material_number,Supplier,Mode,Transit_time,Category,Part_Class,Analyst
+Mat-A,Sup-A,P,3,Import,A,Analyst 1
+Mat-A,Sup-A,R,10,Import,A,Analyst 1
+Mat-B,Sup-B,P,3,Import,A,Analyst 1
+Mat-B,Sup-B,R,10,Import,A,Analyst 1
+Mat-C,Sup-C,P,3,Import,A,Analyst 2
+Mat-C,Sup-C,R,10,Import,A,Analyst 2
