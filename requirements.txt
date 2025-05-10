@@ -1,0 +1,7 @@
+pulp
+pandas
+numpy
+matplotlib
+seaborn
+warnings
+streamlit
